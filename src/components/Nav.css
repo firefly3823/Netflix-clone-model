@@ -1,0 +1,12 @@
+
+.navBar{
+    width: 100%;
+    height: fit-content;
+    position: fixed;
+    z-index: 1;
+
+}
+.navShow{
+        z-index: 1;
+     background-color: black;
+}

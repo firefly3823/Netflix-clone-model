@@ -1,0 +1,9 @@
+.banner_container{
+    position: relative;
+}
+.name-container{
+    width: 60rem;
+    position: absolute;
+    top: 25rem;
+    left: 40px;
+}
